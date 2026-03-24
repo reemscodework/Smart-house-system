@@ -1,15 +1,2 @@
-# Python UV Starter
-
-This is a simple Python [uv](https://docs.astral.uv) starter in Firebase Studio.
-
-## Running
-
-```
-uv run main.py
-```
-
-## Add dependencies
-
-```
-uv add ruff
-```
+# Smart-house-system
+This project was from before i had a github account. I'm uploading it now instead
